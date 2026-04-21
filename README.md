@@ -33,17 +33,6 @@ npm run dev
 npm run build
 ```
 
-## Suggested Git Commands
 
-```bash
-git init
-git add .
-git commit -m "Initial commit for Focus Tracker"
-git branch -M main
-git remote add origin https://github.com/YOUR-USERNAME/ReactApp1.git
-git push -u origin main
-```
-
-## Notes
 
 This project was created with Vite using the React + TypeScript template.
